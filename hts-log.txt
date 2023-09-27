@@ -1,0 +1,92 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 27 Sep 2023 12:43:47 at https://instaviral.io/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://instaviral.io/ -O1 "C:\Users\digit\Downloads\indian follower.com" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:51:37	Warning: 	Moved Permanently for https://instaviral.io/?p=132
+12:51:37	Warning: 	File has moved from https://instaviral.io/?p=132 to https://instaviral.io/my-account/
+12:51:38	Warning: 	Moved Permanently for https://instaviral.io/?p=110
+12:51:38	Warning: 	File has moved from https://instaviral.io/?p=110 to https://instaviral.io/buy-instagram-followers/
+12:51:38	Warning: 	Moved Permanently for https://instaviral.io/?p=119
+12:51:38	Warning: 	File has moved from https://instaviral.io/?p=119 to https://instaviral.io/buy-instagram-likes/
+12:51:38	Warning: 	Moved Permanently for https://instaviral.io/?p=143
+12:51:38	Warning: 	File has moved from https://instaviral.io/?p=143 to https://instaviral.io/buy-instagram-auto-likes/
+12:51:50	Warning: 	Moved Permanently for https://instaviral.io/?p=123
+12:51:50	Warning: 	File has moved from https://instaviral.io/?p=123 to https://instaviral.io/buy-instagram-views/
+12:51:50	Warning: 	Moved Permanently for https://instaviral.io/?p=148
+12:51:50	Warning: 	File has moved from https://instaviral.io/?p=148 to https://instaviral.io/buy-instagram-story-views/
+12:51:56	Error: 	"Not Found" (404) at link https://instaviral.io/buy-instagram-tv-views/ (from https://instaviral.io/buy-instagram-story-views/)
+12:51:56	Error: 	"Not Found" (404) at link https://instaviral.io/buy-reels-views/ (from https://instaviral.io/buy-instagram-story-views/)
+12:51:56	Warning: 	Moved Permanently for https://instaviral.io/?p=157
+12:51:56	Warning: 	File has moved from https://instaviral.io/?p=157 to https://instaviral.io/buy-instagram-reels-views/
+12:51:56	Warning: 	Link https://instaviral.io/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+12:51:56	Warning: 	Moved Permanently for https://instaviral.io/?p=146
+12:51:56	Warning: 	File has moved from https://instaviral.io/?p=146 to https://instaviral.io/buy-igtv-views/
+12:51:56	Warning: 	Moved Permanently for https://instaviral.io/?p=141
+12:51:56	Warning: 	File has moved from https://instaviral.io/?p=141 to https://instaviral.io/buy-instagram-comments/
+12:51:56	Warning: 	Moved Permanently for https://instaviral.io/?p=301
+12:51:56	Warning: 	File has moved from https://instaviral.io/?p=301 to https://instaviral.io/instagram-hashtag-generator/
+12:51:56	Error: 	"Not Found" (404) at link https://instaviral.io/instagram-hashtag-generator/index.js (from https://instaviral.io/instagram-hashtag-generator/)
+12:51:56	Warning: 	Moved Permanently for https://instaviral.io/?p=271
+12:51:56	Warning: 	File has moved from https://instaviral.io/?p=271 to https://instaviral.io/instagram-photo-downloader/
+12:51:56	Warning: 	Moved Permanently for https://instaviral.io/?p=277
+12:51:56	Warning: 	File has moved from https://instaviral.io/?p=277 to https://instaviral.io/instagram-video-downloader/
+12:51:56	Warning: 	Moved Permanently for https://instaviral.io/?p=279
+12:51:56	Warning: 	File has moved from https://instaviral.io/?p=279 to https://instaviral.io/instagram-story-downloader/
+12:51:56	Warning: 	Moved Permanently for https://instaviral.io/?p=176
+12:51:56	Warning: 	File has moved from https://instaviral.io/?p=176 to https://instaviral.io/about-us/
+12:51:56	Warning: 	Moved Permanently for https://instaviral.io/?p=254
+12:51:56	Warning: 	File has moved from https://instaviral.io/?p=254 to https://instaviral.io/contact-us/
+12:51:56	Warning: 	Moved Permanently for https://instaviral.io/?p=473
+12:51:56	Warning: 	File has moved from https://instaviral.io/?p=473 to https://instaviral.io/affiliate/
+12:51:56	Warning: 	Moved Permanently for https://instaviral.io/?p=260
+12:51:56	Warning: 	File has moved from https://instaviral.io/?p=260 to https://instaviral.io/instaviral-reviews/
+12:51:56	Warning: 	Moved Permanently for https://instaviral.io/?p=560
+12:51:56	Warning: 	File has moved from https://instaviral.io/?p=560 to https://instaviral.io/blog/
+12:52:06	Warning: 	Moved Permanently for https://instaviral.io/?p=106
+12:52:06	Warning: 	File has moved from https://instaviral.io/?p=106 to https://instaviral.io/buy/
+12:52:12	Warning: 	Found for https://instaviral.io/checkout/
+12:52:12	Warning: 	File has moved from https://instaviral.io/checkout/ to https://instaviral.io/cart/
+12:52:12	Warning: 	Moved Permanently for https://instaviral.io/?p=753
+12:52:12	Warning: 	File has moved from https://instaviral.io/?p=753 to https://instaviral.io/instagram-dm-desktop/
+12:52:12	Warning: 	Moved Permanently for https://instaviral.io/?p=798
+12:52:12	Warning: 	File has moved from https://instaviral.io/?p=798 to https://instaviral.io/instagram-seo/
+12:52:12	Warning: 	Moved Permanently for https://instaviral.io/?p=825
+12:52:12	Warning: 	File has moved from https://instaviral.io/?p=825 to https://instaviral.io/monetize-instagram/
+12:52:12	Warning: 	Moved Permanently for https://instaviral.io/?p=186
+12:52:12	Warning: 	File has moved from https://instaviral.io/?p=186 to https://instaviral.io/affiliate-area/
+12:52:12	Warning: 	Moved Permanently for https://instaviral.io/?p=305
+12:52:12	Warning: 	File has moved from https://instaviral.io/?p=305 to https://instaviral.io/free-instagram-followers/
+12:52:12	Warning: 	Moved Permanently for https://instaviral.io/?p=314
+12:52:12	Warning: 	File has moved from https://instaviral.io/?p=314 to https://instaviral.io/free-instagram-likes/
+12:52:12	Error: 	"Not Found" (404) at link https://instaviral.io/free-instagram-likes/script.js (from https://instaviral.io/free-instagram-likes/)
+12:52:12	Warning: 	Moved Permanently for https://instaviral.io/?p=319
+12:52:12	Warning: 	File has moved from https://instaviral.io/?p=319 to https://instaviral.io/free-instagram-views/
+12:52:12	Error: 	"Not Found" (404) at link https://instaviral.io/free-instagram-views/script.js (from https://instaviral.io/free-instagram-views/)
+12:52:12	Warning: 	Moved Permanently for https://instaviral.io/?p=964
+12:52:12	Warning: 	File has moved from https://instaviral.io/?p=964 to https://instaviral.io/terms-of-service/
+12:52:12	Error: 	"Not Found" (404) at link https://instaviral.io/my-wallet/ (from https://instaviral.io/terms-of-service/)
+12:52:12	Error: 	"Not Found" (404) at link https://instaviral.io/affiliate-program/ (from https://instaviral.io/terms-of-service/)
+12:52:12	Warning: 	Moved Permanently for https://instaviral.io/?p=3
+12:52:12	Warning: 	File has moved from https://instaviral.io/?p=3 to https://instaviral.io/privacy-policy/
+12:52:12	Warning: 	Moved Permanently for https://instaviral.io/?p=977
+12:52:12	Warning: 	File has moved from https://instaviral.io/?p=977 to https://instaviral.io/affiliate-terms/
+12:52:12	Warning: 	Moved Permanently for https://instaviral.io/?p=652
+12:52:12	Warning: 	File has moved from https://instaviral.io/?p=652 to https://instaviral.io/product/instagram-auto-likes/
+12:52:14	Warning: 	Link https://instaviral.io/product/instagram-real-followers/ not scanned (follow robots meta tag)
+12:52:14	Warning: 	Moved Permanently for https://instaviral.io/?p=572
+12:52:14	Warning: 	File has moved from https://instaviral.io/?p=572 to https://instaviral.io/product/instagram-views/
+12:52:14	Warning: 	Moved Permanently for https://instaviral.io/?p=1235
+12:52:14	Warning: 	File has moved from https://instaviral.io/?p=1235 to https://instaviral.io/what-is-igtv/
+12:52:14	Warning: 	Moved Permanently for https://instaviral.io/?p=1088
+12:52:14	Warning: 	File has moved from https://instaviral.io/?p=1088 to https://instaviral.io/best-igtv-hashtags/
+12:52:14	Warning: 	Moved Permanently for https://instaviral.io/?p=631
+12:52:14	Warning: 	File has moved from https://instaviral.io/?p=631 to https://instaviral.io/product/instagram-comments/
+12:52:19	Warning: 	Moved Permanently for https://instaviral.io/?p=130
+12:52:19	Warning: 	File has moved from https://instaviral.io/?p=130 to https://instaviral.io/cart/
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 32 seconds : 698 links scanned, 654 files written (24615264 bytes overall) [15341746 bytes received at 29964 bytes/sec], 14192447 bytes transferred using HTTP compression in 324 files, ratio 27%, 12.8 requests per connection
+(7 errors, 74 warnings, 0 messages)
